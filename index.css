@@ -8,6 +8,8 @@ body {
     font-size: 300%;
     font-display: kerning;
     font-display: center;
+    text-align: center;
+
   }
   p {
     color: black;
