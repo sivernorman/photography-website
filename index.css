@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(238, 235, 235);
+    overflow-x: hidden;
+  }
+  h1 {
+    color: rgb(12, 12, 12);
+    font-family: verdana;
+    font-size: 300%;
+    font-display: kerning;
+    font-display: center;
+  }
+  p {
+    color: black;
+  font-family: initial;
+  font-size: 140%;
+  }
