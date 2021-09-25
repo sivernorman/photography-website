@@ -16,3 +16,7 @@ body {
   font-family: initial;
   font-size: 140%;
   }
+  img{
+      height: 500;
+      width: 1500;
+  }
