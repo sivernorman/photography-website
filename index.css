@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(223, 217, 241);
+    background-color:rgb(241, 116, 94);
     overflow-x: hidden;
   }
   h1 {
@@ -19,5 +19,8 @@ body {
   img{
       height: 500;
       width: 1500;
+  }
+  ul{
+      text-align: justify;
   }
   
